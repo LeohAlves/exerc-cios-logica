@@ -1,2 +1,2 @@
 # exercicios-logica
-  atividades  da aula de logica
+  atividades simples  da aula de logica
